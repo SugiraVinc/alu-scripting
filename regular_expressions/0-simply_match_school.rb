@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-var = /(School).join/
+"(/School/).join"
