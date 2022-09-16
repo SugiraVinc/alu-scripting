@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby
-/hb t{4} n/
+/hb t{2,4} n/
